@@ -1,1 +1,1 @@
-# agilpay-xamarin-sdk-sample
+# Agilpay Xamarin Sdk Sample App
