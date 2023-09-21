@@ -1,11 +1,11 @@
 ﻿using Agilisa.Paymentsdk.Xamarin;
+using agilpay.client.models;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Transactions;
 using Xamarin.Forms;
 
 namespace agilpay_xamarin_sdk_sample
@@ -24,7 +24,7 @@ namespace agilpay_xamarin_sdk_sample
             Console.WriteLine(error);
         }
 
-        public void OnPaymentResult(agilpay.models.Transaction result)
+        public void OnPaymentResult(Transaction result)
         {
             Console.WriteLine(result);
         }
@@ -52,8 +52,7 @@ namespace agilpay_xamarin_sdk_sample
                     CustomerName = entryCustomerName.Text,
                     Invoice = entryInvoice.Text,
                     MerchantKey = entryMerchantKey.Text,
-                    Tax = 0,
-                    PaymentMethods = new List<Agilisa.Paymentsdk.Xamarin.Enums.PaymentMethod> { Agilisa.Paymentsdk.Xamarin.Enums.PaymentMethod.Cards }
+                    Tax = 0
                 }, this);
 
             }

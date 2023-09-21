@@ -112,7 +112,7 @@
                     Clicked="ShowCredentials"
                     HorizontalOptions="End"
                     Text="View credentials"
-                    TextColor="{StaticResource Primary}" />
+                    TextColor="#3F51B5" />
 
                 <StackLayout
                     x:Name="layoutCredentials"

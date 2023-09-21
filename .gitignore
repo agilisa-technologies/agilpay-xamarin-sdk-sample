@@ -6,3 +6,7 @@
 /agilpay-xamarin-sdk-sample/agilpay-xamarin-sdk-sample/agilpay-xamarin-sdk-sample/obj
 /agilpay-xamarin-sdk-sample/agilpay-xamarin-sdk-sample/agilpay-xamarin-sdk-sample.Android/obj
 /agilpay-xamarin-sdk-sample/agilpay-xamarin-sdk-sample/agilpay-xamarin-sdk-sample.iOS/obj
+/.vs
+/agilpay-xamarin-sdk-sample/agilpay-xamarin-sdk-sample.Android/obj
+/agilpay-xamarin-sdk-sample/agilpay-xamarin-sdk-sample.Android/bin/Debug
+/agilpay-xamarin-sdk-sample/agilpay-xamarin-sdk-sample.iOS/obj
