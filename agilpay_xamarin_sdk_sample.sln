@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "agilpay-xamarin-sdk-sample.Android", "agilpay-xamarin-sdk-sample\agilpay-xamarin-sdk-sample.Android\agilpay-xamarin-sdk-sample.Android.csproj", "{05283C7A-1A22-4E09-9D62-E382089E4BD8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "agilpay_xamarin_sdk_sample.Android", "agilpay_xamarin_sdk_sample\agilpay_xamarin_sdk_sample.Android\agilpay_xamarin_sdk_sample.Android.csproj", "{05283C7A-1A22-4E09-9D62-E382089E4BD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "agilpay-xamarin-sdk-sample.iOS", "agilpay-xamarin-sdk-sample\agilpay-xamarin-sdk-sample.iOS\agilpay-xamarin-sdk-sample.iOS.csproj", "{CF26E4B2-60F1-4A06-9168-49CC6B2BA273}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "agilpay_xamarin_sdk_sample.iOS", "agilpay_xamarin_sdk_sample\agilpay_xamarin_sdk_sample.iOS\agilpay_xamarin_sdk_sample.iOS.csproj", "{CF26E4B2-60F1-4A06-9168-49CC6B2BA273}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "agilpay-xamarin-sdk-sample", "agilpay-xamarin-sdk-sample\agilpay-xamarin-sdk-sample\agilpay-xamarin-sdk-sample.csproj", "{61C03159-F55F-4456-81A1-E342D99B9AA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "agilpay_xamarin_sdk_sample", "agilpay_xamarin_sdk_sample\agilpay_xamarin_sdk_sample\agilpay_xamarin_sdk_sample.csproj", "{61C03159-F55F-4456-81A1-E342D99B9AA6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

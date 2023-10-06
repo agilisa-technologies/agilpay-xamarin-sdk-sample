@@ -131,9 +131,9 @@
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
-    <ProjectReference Include="..\agilpay-xamarin-sdk-sample\agilpay-xamarin-sdk-sample.csproj">
-      <Project>{B8AA8347-C93E-4260-84AA-83C484C1C33C}</Project>
-      <Name>agilpay-xamarin-sdk-sample</Name>
+    <ProjectReference Include="..\agilpay_xamarin_sdk_sample\agilpay_xamarin_sdk_sample.csproj">
+      <Project>{61C03159-F55F-4456-81A1-E342D99B9AA6}</Project>
+      <Name>agilpay_xamarin_sdk_sample</Name>
     </ProjectReference>
   </ItemGroup>
 </Project>
