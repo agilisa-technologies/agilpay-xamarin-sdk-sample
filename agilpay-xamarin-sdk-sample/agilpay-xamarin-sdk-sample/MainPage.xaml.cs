@@ -52,7 +52,9 @@ namespace agilpay_xamarin_sdk_sample
                     CustomerName = entryCustomerName.Text,
                     Invoice = entryInvoice.Text,
                     MerchantKey = entryMerchantKey.Text,
-                    Tax = 0
+                    Tax = 0,
+                    ForceDuplicate = checkForceDuplicate.IsChecked,
+                    HoldFunds = checkHoldFunds.IsChecked
                 }, this);
 
             }

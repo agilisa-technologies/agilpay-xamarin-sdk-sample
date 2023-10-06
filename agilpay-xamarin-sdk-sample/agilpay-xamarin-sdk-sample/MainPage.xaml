@@ -99,6 +99,16 @@
                     MaxLength="10"
                     ReturnType="Done" />
 
+                <Grid ColumnDefinitions="Auto,Auto,*,Auto" HorizontalOptions="FillAndExpand">
+                    <CheckBox x:Name="checkForceDuplicate" Grid.Column="0" />
+                    <Label Grid.Column="1" Text="Force duplicate" />
+                    <CheckBox
+                        x:Name="checkHoldFunds"
+                        Grid.Column="2"
+                        HorizontalOptions="End" />
+                    <Label Grid.Column="3" Text="Hold funds" />
+                </Grid>
+
                 <Button
                     Margin="0,20,0,0"
                     Clicked="ProcessPaymentClicked"
