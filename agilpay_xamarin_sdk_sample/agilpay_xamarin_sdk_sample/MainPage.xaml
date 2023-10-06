@@ -31,7 +31,7 @@
                     HorizontalOptions="FillAndExpand"
                     Keyboard="Default"
                     ReturnType="Next"
-                    Text="mamedina" />
+                    Text="" />
 
                 <Label
                     Margin="0,5,0,0"
@@ -75,7 +75,7 @@
                     HorizontalOptions="FillAndExpand"
                     Keyboard="Email"
                     ReturnType="Next"
-                    Text="mmedina@agilisa.com" />
+                    Text="test@gmail.com" />
 
                 <Label
                     Margin="0,5,0,0"
@@ -86,7 +86,7 @@
                     HorizontalOptions="FillAndExpand"
                     Keyboard="Default"
                     ReturnType="Next"
-                    Text="prueba" />
+                    Text="John Doe" />
 
 
                 <Label
