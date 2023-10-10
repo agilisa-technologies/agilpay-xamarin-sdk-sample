@@ -1,7 +1,7 @@
 # AgilPay SDK Xamarin Sample
 Sample project that guide you how to use the Paynet mobile SDK for Xamarin.Forms
 
-**Live demo**
+**Live demo:**
 https://www.figma.com/proto/k0M65ur5kWDoiZAHD8xORN/Paynet-SDK-Mobile-Xamarin.Forms?type=design&node-id=41-1892&t=NfwjDxvHIkTidwyt-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=41%3A1892&mode=design
 
 # Setup
