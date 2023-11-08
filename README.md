@@ -19,6 +19,13 @@ var clientId = "API-001";
 var clientSecret = "Dynapay";
 await PaymentService.Initialize(environmentUrl, clientId, clientSecret);
 ```
+You can optionally pass the Theme parameter in the initialize to configure your own color settings.
+```csharp
+new Theme{
+ PrimaryColor = "your hex color",
+ SecondaryColor = "your hex color"
+}
+```
 
 **The environment URLs are:**
 * for test environment: https://sandbox-webpay.agilpay.net/ 
